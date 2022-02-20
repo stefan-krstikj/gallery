@@ -5,7 +5,7 @@
       "height": 3240,
       "path": "./photos/Kozjak/085G7878.jpg",
       "compressed_path": "./photos/Kozjak/085G7878.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Kozjak/085G7878.placeholder.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "height": 3577,
       "path": "./photos/Kozjak/085G7889.jpg",
       "compressed_path": "./photos/Kozjak/085G7889.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Kozjak/085G7889.placeholder.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "height": 3162,
       "path": "./photos/Kozjak/DSC_7077.jpg",
       "compressed_path": "./photos/Kozjak/DSC_7077.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Kozjak/DSC_7077.placeholder.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "height": 3375,
       "path": "./photos/Kozjak/DSC_7083.jpg",
       "compressed_path": "./photos/Kozjak/DSC_7083.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Kozjak/DSC_7083.placeholder.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "height": 3411,
       "path": "./photos/Kozjak/DSC_7091-Pano.jpg",
       "compressed_path": "./photos/Kozjak/DSC_7091-Pano.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Kozjak/DSC_7091-Pano.placeholder.jpg"
     },
     {
@@ -45,7 +45,7 @@
       "height": 3491,
       "path": "./photos/Kozjak/DSC_7116-Pano.jpg",
       "compressed_path": "./photos/Kozjak/DSC_7116-Pano.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Kozjak/DSC_7116-Pano.placeholder.jpg"
     },
     {
@@ -53,7 +53,7 @@
       "height": 2905,
       "path": "./photos/Kozjak/DSC_7133.jpg",
       "compressed_path": "./photos/Kozjak/DSC_7133.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Kozjak/DSC_7133.placeholder.jpg"
     }
   ],
@@ -63,7 +63,7 @@
       "height": 3462,
       "path": "./photos/USA 2019/085G6690.jpg",
       "compressed_path": "./photos/USA 2019/085G6690.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6690.placeholder.jpg"
     },
     {
@@ -71,7 +71,7 @@
       "height": 2073,
       "path": "./photos/USA 2019/085G6720.jpg",
       "compressed_path": "./photos/USA 2019/085G6720.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6720.placeholder.jpg"
     },
     {
@@ -79,7 +79,7 @@
       "height": 1977,
       "path": "./photos/USA 2019/085G6725.jpg",
       "compressed_path": "./photos/USA 2019/085G6725.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6725.placeholder.jpg"
     },
     {
@@ -87,7 +87,7 @@
       "height": 3157,
       "path": "./photos/USA 2019/085G6726.jpg",
       "compressed_path": "./photos/USA 2019/085G6726.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6726.placeholder.jpg"
     },
     {
@@ -95,7 +95,7 @@
       "height": 2206,
       "path": "./photos/USA 2019/085G6741.jpg",
       "compressed_path": "./photos/USA 2019/085G6741.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6741.placeholder.jpg"
     },
     {
@@ -103,7 +103,7 @@
       "height": 2151,
       "path": "./photos/USA 2019/085G6742.jpg",
       "compressed_path": "./photos/USA 2019/085G6742.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6742.placeholder.jpg"
     },
     {
@@ -111,7 +111,7 @@
       "height": 2315,
       "path": "./photos/USA 2019/085G6751.jpg",
       "compressed_path": "./photos/USA 2019/085G6751.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6751.placeholder.jpg"
     },
     {
@@ -119,7 +119,7 @@
       "height": 2295,
       "path": "./photos/USA 2019/085G6763.jpg",
       "compressed_path": "./photos/USA 2019/085G6763.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6763.placeholder.jpg"
     },
     {
@@ -127,7 +127,7 @@
       "height": 1943,
       "path": "./photos/USA 2019/085G6804.jpg",
       "compressed_path": "./photos/USA 2019/085G6804.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/085G6804.placeholder.jpg"
     },
     {
@@ -135,7 +135,7 @@
       "height": 6000,
       "path": "./photos/USA 2019/IMG_0817.jpg",
       "compressed_path": "./photos/USA 2019/IMG_0817.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_0817.placeholder.jpg"
     },
     {
@@ -143,7 +143,7 @@
       "height": 3750,
       "path": "./photos/USA 2019/IMG_1230.jpg",
       "compressed_path": "./photos/USA 2019/IMG_1230.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_1230.placeholder.jpg"
     },
     {
@@ -151,7 +151,7 @@
       "height": 6000,
       "path": "./photos/USA 2019/IMG_1233.jpg",
       "compressed_path": "./photos/USA 2019/IMG_1233.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_1233.placeholder.jpg"
     },
     {
@@ -159,7 +159,7 @@
       "height": 3375,
       "path": "./photos/USA 2019/IMG_1234.jpg",
       "compressed_path": "./photos/USA 2019/IMG_1234.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_1234.placeholder.jpg"
     },
     {
@@ -167,7 +167,7 @@
       "height": 3750,
       "path": "./photos/USA 2019/IMG_1237.jpg",
       "compressed_path": "./photos/USA 2019/IMG_1237.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_1237.placeholder.jpg"
     },
     {
@@ -175,7 +175,7 @@
       "height": 3375,
       "path": "./photos/USA 2019/IMG_1238.jpg",
       "compressed_path": "./photos/USA 2019/IMG_1238.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_1238.placeholder.jpg"
     },
     {
@@ -183,7 +183,7 @@
       "height": 3892,
       "path": "./photos/USA 2019/IMG_20190901_215059.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190901_215059.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190901_215059.placeholder.jpg"
     },
     {
@@ -191,7 +191,7 @@
       "height": 3855,
       "path": "./photos/USA 2019/IMG_20190902_012618.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190902_012618.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190902_012618.placeholder.jpg"
     },
     {
@@ -199,7 +199,7 @@
       "height": 4032,
       "path": "./photos/USA 2019/IMG_20190903_151230.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190903_151230.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190903_151230.placeholder.jpg"
     },
     {
@@ -207,7 +207,7 @@
       "height": 4032,
       "path": "./photos/USA 2019/IMG_20190904_184247.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190904_184247.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190904_184247.placeholder.jpg"
     },
     {
@@ -215,7 +215,7 @@
       "height": 2948,
       "path": "./photos/USA 2019/IMG_20190904_184625.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190904_184625.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190904_184625.placeholder.jpg"
     },
     {
@@ -223,7 +223,7 @@
       "height": 4032,
       "path": "./photos/USA 2019/IMG_20190904_184841.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190904_184841.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190904_184841.placeholder.jpg"
     },
     {
@@ -231,7 +231,7 @@
       "height": 2520,
       "path": "./photos/USA 2019/IMG_20190904_184946.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190904_184946.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190904_184946.placeholder.jpg"
     },
     {
@@ -239,7 +239,7 @@
       "height": 2520,
       "path": "./photos/USA 2019/IMG_20190905_172414.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190905_172414.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190905_172414.placeholder.jpg"
     },
     {
@@ -247,7 +247,7 @@
       "height": 2982,
       "path": "./photos/USA 2019/IMG_20190905_191759-2.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190905_191759-2.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190905_191759-2.placeholder.jpg"
     },
     {
@@ -255,7 +255,7 @@
       "height": 2185,
       "path": "./photos/USA 2019/IMG_20190905_191759.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190905_191759.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190905_191759.placeholder.jpg"
     },
     {
@@ -263,7 +263,7 @@
       "height": 2163,
       "path": "./photos/USA 2019/IMG_20190905_191929.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190905_191929.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190905_191929.placeholder.jpg"
     },
     {
@@ -271,7 +271,7 @@
       "height": 1507,
       "path": "./photos/USA 2019/IMG_20190905_202333.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190905_202333.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190905_202333.placeholder.jpg"
     },
     {
@@ -279,7 +279,7 @@
       "height": 1943,
       "path": "./photos/USA 2019/IMG_20190907_163221-Edit.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190907_163221-Edit.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190907_163221-Edit.placeholder.jpg"
     },
     {
@@ -287,7 +287,7 @@
       "height": 2164,
       "path": "./photos/USA 2019/IMG_20190908_140517.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190908_140517.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190908_140517.placeholder.jpg"
     },
     {
@@ -295,7 +295,7 @@
       "height": 2128,
       "path": "./photos/USA 2019/IMG_20190908_152824.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190908_152824.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190908_152824.placeholder.jpg"
     },
     {
@@ -303,7 +303,7 @@
       "height": 2562,
       "path": "./photos/USA 2019/IMG_20190908_153733.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190908_153733.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190908_153733.placeholder.jpg"
     },
     {
@@ -311,7 +311,7 @@
       "height": 1991,
       "path": "./photos/USA 2019/IMG_20190908_155123.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190908_155123.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190908_155123.placeholder.jpg"
     },
     {
@@ -319,7 +319,7 @@
       "height": 2411,
       "path": "./photos/USA 2019/IMG_20190908_160426.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190908_160426.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190908_160426.placeholder.jpg"
     },
     {
@@ -327,7 +327,7 @@
       "height": 2805,
       "path": "./photos/USA 2019/IMG_20190908_161235.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190908_161235.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190908_161235.placeholder.jpg"
     },
     {
@@ -335,7 +335,7 @@
       "height": 2170,
       "path": "./photos/USA 2019/IMG_20190908_180301.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190908_180301.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190908_180301.placeholder.jpg"
     },
     {
@@ -343,7 +343,7 @@
       "height": 2974,
       "path": "./photos/USA 2019/IMG_20190908_190001.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190908_190001.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190908_190001.placeholder.jpg"
     },
     {
@@ -351,7 +351,7 @@
       "height": 2139,
       "path": "./photos/USA 2019/IMG_20190909_153453.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_153453.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_153453.placeholder.jpg"
     },
     {
@@ -359,7 +359,7 @@
       "height": 2114,
       "path": "./photos/USA 2019/IMG_20190909_154343.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_154343.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_154343.placeholder.jpg"
     },
     {
@@ -367,7 +367,7 @@
       "height": 3758,
       "path": "./photos/USA 2019/IMG_20190909_160217-2.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_160217-2.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_160217-2.placeholder.jpg"
     },
     {
@@ -375,7 +375,7 @@
       "height": 3758,
       "path": "./photos/USA 2019/IMG_20190909_160217.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_160217.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_160217.placeholder.jpg"
     },
     {
@@ -383,7 +383,7 @@
       "height": 4032,
       "path": "./photos/USA 2019/IMG_20190909_160327.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_160327.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_160327.placeholder.jpg"
     },
     {
@@ -391,7 +391,7 @@
       "height": 3665,
       "path": "./photos/USA 2019/IMG_20190909_160755.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_160755.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_160755.placeholder.jpg"
     },
     {
@@ -399,7 +399,7 @@
       "height": 2520,
       "path": "./photos/USA 2019/IMG_20190909_162553.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_162553.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_162553.placeholder.jpg"
     },
     {
@@ -407,7 +407,7 @@
       "height": 2520,
       "path": "./photos/USA 2019/IMG_20190909_162557.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_162557.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_162557.placeholder.jpg"
     },
     {
@@ -415,7 +415,7 @@
       "height": 1585,
       "path": "./photos/USA 2019/IMG_20190909_185818.jpg",
       "compressed_path": "./photos/USA 2019/IMG_20190909_185818.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_20190909_185818.placeholder.jpg"
     },
     {
@@ -423,7 +423,7 @@
       "height": 2403,
       "path": "./photos/USA 2019/IMG_2369-1.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2369-1.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2369-1.placeholder.jpg"
     },
     {
@@ -431,7 +431,7 @@
       "height": 2670,
       "path": "./photos/USA 2019/IMG_2564.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2564.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2564.placeholder.jpg"
     },
     {
@@ -439,7 +439,7 @@
       "height": 2575,
       "path": "./photos/USA 2019/IMG_2688.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2688.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2688.placeholder.jpg"
     },
     {
@@ -447,7 +447,7 @@
       "height": 2403,
       "path": "./photos/USA 2019/IMG_2689.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2689.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2689.placeholder.jpg"
     },
     {
@@ -455,7 +455,7 @@
       "height": 2403,
       "path": "./photos/USA 2019/IMG_2694.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2694.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2694.placeholder.jpg"
     },
     {
@@ -463,7 +463,7 @@
       "height": 2403,
       "path": "./photos/USA 2019/IMG_2710-2.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2710-2.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2710-2.placeholder.jpg"
     },
     {
@@ -471,7 +471,7 @@
       "height": 2403,
       "path": "./photos/USA 2019/IMG_2710.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2710.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2710.placeholder.jpg"
     },
     {
@@ -479,7 +479,7 @@
       "height": 2403,
       "path": "./photos/USA 2019/IMG_2730.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2730.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2730.placeholder.jpg"
     },
     {
@@ -487,7 +487,7 @@
       "height": 2403,
       "path": "./photos/USA 2019/IMG_2736.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2736.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2736.placeholder.jpg"
     },
     {
@@ -495,7 +495,7 @@
       "height": 2198,
       "path": "./photos/USA 2019/IMG_2768.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2768.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2768.placeholder.jpg"
     },
     {
@@ -503,7 +503,7 @@
       "height": 2670,
       "path": "./photos/USA 2019/IMG_2833.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2833.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2833.placeholder.jpg"
     },
     {
@@ -511,7 +511,7 @@
       "height": 4032,
       "path": "./photos/USA 2019/IMG_2856.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2856.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2856.placeholder.jpg"
     },
     {
@@ -519,7 +519,7 @@
       "height": 2520,
       "path": "./photos/USA 2019/IMG_2857-2.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2857-2.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2857-2.placeholder.jpg"
     },
     {
@@ -527,7 +527,7 @@
       "height": 4032,
       "path": "./photos/USA 2019/IMG_2857-3.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2857-3.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2857-3.placeholder.jpg"
     },
     {
@@ -535,7 +535,7 @@
       "height": 4032,
       "path": "./photos/USA 2019/IMG_2857.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2857.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2857.placeholder.jpg"
     },
     {
@@ -543,7 +543,7 @@
       "height": 2315,
       "path": "./photos/USA 2019/IMG_2867.jpg",
       "compressed_path": "./photos/USA 2019/IMG_2867.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/IMG_2867.placeholder.jpg"
     },
     {
@@ -551,7 +551,7 @@
       "height": 1662,
       "path": "./photos/USA 2019/PANO_20190909_125619.vr-Pano.jpg",
       "compressed_path": "./photos/USA 2019/PANO_20190909_125619.vr-Pano.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/USA 2019/PANO_20190909_125619.vr-Pano.placeholder.jpg"
     }
   ]
